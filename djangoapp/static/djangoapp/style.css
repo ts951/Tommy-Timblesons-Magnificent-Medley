@@ -1,4 +1,14 @@
-.poop {
-    text-align:right;
+body {
+    color:blue
+}
+
+.navbar {
     color:aqua;
+    background-color:black;
+}
+
+.navlist {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
 }
